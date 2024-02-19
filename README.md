@@ -1,4 +1,4 @@
-![alt text](?raw=true)
+![alt text](https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/bukti.jpg?raw=true)
 
 INI-BUKTI-IZIN-NYA-TOD
 <html lang="en">
