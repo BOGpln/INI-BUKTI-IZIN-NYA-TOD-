@@ -9,4 +9,4 @@ INI-BUKTI-IZIN-NYA-TOD
   <h1>HELLO WORLD</h1>
   <p>LIAT PAKE MATA NJING!!:</p>
   <audio controls>
-  <source src="Alan waker sendiri.mp3" type="audio/mp3"
+  <audio src="https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/Alan%20Walker%20Alone%20Lyrics.mp3" type="audio/mp3"
