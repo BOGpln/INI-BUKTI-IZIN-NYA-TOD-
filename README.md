@@ -1,4 +1,4 @@
-
+![alt text](https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/bukti.jpg?raw=true)
 INI-BUKTI-IZIN-NYA-TOD
 <html lang="en">
 <head>
@@ -12,4 +12,3 @@ INI-BUKTI-IZIN-NYA-TOD
  
   </p>
 </body>
-![alt text](https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/bukti.jpg?raw=true)
