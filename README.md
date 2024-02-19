@@ -8,6 +8,6 @@
   <h1>HELLO WORLD</h1>
   <p>LIAT PAKE MATA NJING!!:</p>
   <p>
-    <img src="" />
+ 
   </p>
 </body>
