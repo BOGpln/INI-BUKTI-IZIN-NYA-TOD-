@@ -12,7 +12,4 @@ INI-BUKTI-IZIN-NYA-TOD
   <audio controls>
   <audio src="https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/Alan%20Walker%20Alone%20Lyrics.mp3" type="audio/mp3"
 <html>
-<head>
-	<title>Jam (Aktif) With JavaScript</title>
-</head>
-<body>
+<head></head>
