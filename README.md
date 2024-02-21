@@ -1,4 +1,4 @@
-![alt text](https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/GIF-240220_070943.gif?raw=true)
+![alt text](https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/GIF-240220_075007.gif?raw=true)
 ![alt text](https://github.com/BOGpln/INI-BUKTI-IZIN-NYA-TOD-/blob/main/bukti.jpg?raw=true)
 INI-BUKTI-IZIN-NYA-TOD
 <html lang="en">
